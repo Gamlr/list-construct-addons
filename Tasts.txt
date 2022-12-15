@@ -1,0 +1,5 @@
+- Proj github name: list-construct-addons
+
+- option for more output formats, for example omitting loop counts and exporting to .json result file
+
+- Support for Construct 3 projects
